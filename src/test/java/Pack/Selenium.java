@@ -12,5 +12,9 @@ public class Selenium {
 	public void web() {
 		System.out.println("web");
 	}
+	@Test
+	public void application() {
+		System.out.println("weaab");
+	}
 	
 }
