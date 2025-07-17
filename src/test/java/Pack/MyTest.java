@@ -8,7 +8,7 @@ public class MyTest {
 
 	@Test
 	public void methodone() {
-		WebDriverManager.chromedriver().setup();
+	//	WebDriverManager.chromedriver().setup();
 		WebDriver Driver = new ChromeDriver();
 	}
 	
