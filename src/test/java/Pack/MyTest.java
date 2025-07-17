@@ -17,5 +17,4 @@ public class MyTest {
 	public void addtomaster() {
 		System.out.println("adding code to master and puuling from there");
 	}
-
 }
