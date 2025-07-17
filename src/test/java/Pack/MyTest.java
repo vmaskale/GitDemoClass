@@ -8,10 +8,14 @@ public class MyTest {
 
 	@Test
 	public void methodone() {
-	//	WebDriverManager.chromedriver().setup();
+
 		WebDriver Driver = new ChromeDriver();
 	}
-	
-	
-	
+	public void addgit() {
+		System.out.println("added code ");
+	}
+	public void addtomaster() {
+		System.out.println("adding code to master and puuling from there");
+	}
+
 }
